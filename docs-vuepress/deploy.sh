@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:apiinteractor/apiinteractor.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:apiinteractor/documentation.git master:gh-pages
+git push -f https://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@github.com:apiinteractor/documentation.git master:gh-pages
 
 cd -
